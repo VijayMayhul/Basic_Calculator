@@ -23,7 +23,7 @@ I learned to implement HTML Elements manipulation in Javascript using DOM and so
 
 ## Website
 
-[My_Basic_Calculator](https://food-suggestion-for.vercel.app/)
+[My_Basic_Calculator](https://basic-calculator-kohl.vercel.app/)
 
 
 ## Screenshots
