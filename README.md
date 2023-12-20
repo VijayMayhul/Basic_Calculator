@@ -1,5 +1,5 @@
 
-# Food Suggestion Form
+# Basic Calculator
 
 It's Basic Calculator which was designed by me. It's my Guvi-Zen class Day-15 (Dom : Day-3) Task.
 
@@ -18,7 +18,7 @@ I learned to implement HTML Elements manipulation in Javascript using DOM and so
 
 ## Features
 
-- Responsive Design
+- Responsive and Interactive Design
 
 
 ## Website
